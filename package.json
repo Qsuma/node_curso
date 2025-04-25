@@ -1,0 +1,19 @@
+{
+  "name": "tablas",
+  "version": "0.0.1",
+  "description": "app de tablas de multiplicar",
+  "main": "tablas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node tablas --base=3"
+  },
+  "author": "Pedro Alejandro Guerra Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
